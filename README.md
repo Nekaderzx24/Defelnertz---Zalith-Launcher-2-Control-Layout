@@ -11,5 +11,5 @@ Go to:
 ---
 ### 📥 How to Install:
 1. Download the `.json` file from the assets below.
-2. Import the layout into your Zalith Launcher.
+2. Import the layout into your Zalith Launcher 2.
 3. Enjoy your game!#
